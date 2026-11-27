@@ -9,7 +9,7 @@ Desarrollo de software y automatización con inteligencia artificial. Trabajo en
 ## Actividad actual
 
 - **Encargado de TI.** Responsable del área de tecnología de un grupo de empresas: sitios web, integraciones, automatización de procesos y agentes de IA.
-- **[episteme](https://github.com/Bajmein/episteme).** Una memoria de proyecto curada que comparten Claude Code y Gemini, servida por MCP desde notas Markdown locales compatibles con Obsidian. Código abierto (licencia MIT).
+- **[episteme](https://github.com/Bajmein/episteme).** Una memoria de proyecto curada que comparten Claude Code, Gemini y GitHub Copilot CLI, servida por MCP desde notas Markdown locales compatibles con Obsidian. Código abierto (licencia MIT).
 - **fabrik.** Flujo de desarrollo guiado por especificaciones para el trabajo con agentes de código.
 - **Vigilia.** Sistema de análisis de video en tiempo real, desarrollado como proyecto de título y actualmente en su tercera versión.
 
@@ -17,7 +17,7 @@ Desarrollo de software y automatización con inteligencia artificial. Trabajo en
 
 | Proyecto | Descripción |
 | --- | --- |
-| [episteme](https://github.com/Bajmein/episteme) | Una memoria de proyecto curada que comparten tus agentes de IA (Claude Code y Gemini), servida por MCP desde notas Markdown locales. Código abierto (licencia MIT). |
+| [episteme](https://github.com/Bajmein/episteme) | Una memoria de proyecto curada que comparten Claude Code, Gemini y Copilot CLI, servida por MCP desde notas Markdown locales. Código abierto (licencia MIT). |
 | [Vigilia Reforged](https://github.com/Bajmein/vigilia-reforged-showcase) | Análisis de video en tiempo real con arquitectura híbrida Python y Rust: decodificación NVDEC por hardware y comunicación entre procesos de copia cero. |
 | [Vigilia Edge](https://github.com/Bajmein/vigilia-edge-showcase) | Videovigilancia de escritorio con inferencia local (YOLO y TensorRT), sin dependencia de servicios en la nube. |
 | [pulse](https://github.com/Bajmein/pulse-showcase) | Motor en Python que lleva cada cambio de software por ocho fases con compuertas verificables y lo expone a los agentes de IA por MCP. Ciclo cerrado. |
